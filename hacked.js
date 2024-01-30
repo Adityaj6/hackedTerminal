@@ -28,7 +28,7 @@ async function main(){
         
      })
 
-    let text = ["You are devices is hacked By Aditya srivastava","Initializing hacking","Reading your files","Password files Detected","Sending all passwords and Personal files to Aditya server","All files set to the server","Cleaning Up"]
+    let text = ["You are devices is hacked By Aditya srivastava","Initializing hacking","Reading your files","Password files Detected","Sending all passwords and Personal files to Aditya server","All files set to the server","Cleaning Up","All data sent to the server","Have a nice day "]
     for(const item of text){
       await  addItem(item)
     }
